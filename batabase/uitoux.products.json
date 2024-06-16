@@ -1,0 +1,192 @@
+[{
+  "_id": {
+    "$oid": "666d092f90373722e566598a"
+  },
+  "id": 1,
+  "name": "Glossy gray 19 Aluminium Wheel AR-19",
+  "image": "product-1.jpeg",
+  "category": "Wheel",
+  "new_price": 589,
+  "old_price": 700.5,
+  "date": {
+    "$date": "2024-06-15T03:05:02.692Z"
+  },
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666d09e390373722e566598e"
+  },
+  "id": 2,
+  "name": "Twin Exaust Pipe From Brandix Z54",
+  "image": "product-2.jpeg",
+  "category": "Exaust",
+  "new_price": 749,
+  "old_price": 900.5,
+  "date": {
+    "$date": "2024-06-15T03:05:02.692Z"
+  },
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666d0a2690373722e5665990"
+  },
+  "id": 3,
+  "name": "Motor Oil Level 5",
+  "image": "product-3.jpeg",
+  "category": "Oil",
+  "new_price": 23,
+  "old_price": 40.5,
+  "date": {
+    "$date": "2024-06-15T03:05:02.692Z"
+  },
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666d0a7f90373722e5665992"
+  },
+  "id": 4,
+  "name": "Brandix Engine Block Z4",
+  "image": "product-4.jpeg",
+  "category": "Engine",
+  "new_price": 452,
+  "old_price": 700.5,
+  "date": {
+    "$date": "2024-06-15T03:05:02.692Z"
+  },
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666d0aff90373722e5665994"
+  },
+  "id": 5,
+  "name": "Brandix Clutch Discs Z175",
+  "image": "product-5.jpeg",
+  "category": "Clutch",
+  "new_price": 345,
+  "old_price": 500.5,
+  "date": {
+    "$date": "2024-06-15T03:05:02.692Z"
+  },
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666d0bbb90373722e5665996"
+  },
+  "id": 6,
+  "name": "Fantastic 12-Stroke Engine With A Power Of 1991 hp",
+  "image": "product-6.jpeg",
+  "category": "Engine",
+  "new_price": 2579,
+  "old_price": 4000.5,
+  "date": {
+    "$date": "2024-06-15T03:05:02.692Z"
+  },
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666d0c3690373722e5665998"
+  },
+  "id": 7,
+  "name": "Set of four 19 Inch Spiked Tires",
+  "image": "product-7.jpeg",
+  "category": "Tires",
+  "new_price": 327,
+  "old_price": 500.5,
+  "date": {
+    "$date": "2024-06-15T03:05:02.692Z"
+  },
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666d0c8d90373722e566599a"
+  },
+  "id": 8,
+  "name": "40 Megawatt Low Beam Lamp",
+  "image": "product-8.jpeg",
+  "category": "Lamp",
+  "new_price": 4,
+  "old_price": 2.5,
+  "date": {
+    "$date": "2024-06-15T03:05:02.692Z"
+  },
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666d0d1890373722e566599c"
+  },
+  "id": 9,
+  "name": "Brandix Manual Five Speed Gear Box",
+  "image": "product-9.jpeg",
+  "category": "Gear",
+  "new_price": 879,
+  "old_price": 1000.5,
+  "date": {
+    "$date": "2024-06-15T03:05:02.692Z"
+  },
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666d0d5990373722e566599e"
+  },
+  "id": 10,
+  "name": "Set of Car Floor Mats Brandix Z4",
+  "image": "product-10.jpeg",
+  "category": "Mats",
+  "new_price": 78,
+  "old_price": 100.5,
+  "date": {
+    "$date": "2024-06-15T03:05:02.692Z"
+  },
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666d0dae90373722e56659a0"
+  },
+  "id": 11,
+  "name": "Taillights Brandix Z54",
+  "image": "product-11.jpeg",
+  "category": "lights",
+  "new_price": 60,
+  "old_price": 30.5,
+  "date": {
+    "$date": "2024-06-15T03:05:02.692Z"
+  },
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666d0df890373722e56659a2"
+  },
+  "id": 12,
+  "name": "Brandix Engine Block Z4",
+  "image": "product-12.jpeg",
+  "category": "Engine",
+  "new_price": 452,
+  "old_price": 500.5,
+  "date": {
+    "$date": "2024-06-15T03:05:02.692Z"
+  },
+  "available": true,
+  "__v": 0
+}]
